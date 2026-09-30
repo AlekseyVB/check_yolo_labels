@@ -1,0 +1,26 @@
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Credentials and local settings
+.env
+.env.*
+*.pem
+*.key
+.vscode/
+
+# Generated results and full local datasets
+manual_preview/
+my_preview/
+new_preview/
+frame_preview/
+preview_*/
+results/
+datasets/
+*.zip
+*.log

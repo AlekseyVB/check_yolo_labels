@@ -1,0 +1,4 @@
+# Python 3.10+; Windows, VS Code Interactive Window / Jupyter notebooks.
+Pillow>=10.0,<13
+ipython>=8.0,<10
+ipykernel>=6.0,<8
